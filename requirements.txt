@@ -1,6 +1,6 @@
-geopandas,
-rasterio,
-matplotlib,
-tensorflow,
-sklearn,
+geopandas
+rasterio
+matplotlib
+tensorflow
+sklearn
 openeo
