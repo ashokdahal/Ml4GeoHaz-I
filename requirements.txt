@@ -1,0 +1,6 @@
+geopandas,
+rasterio,
+matplotlib,
+tensorflow,
+sklearn,
+openeo
